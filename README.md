@@ -1,16 +1,30 @@
-# Professional Profile
+# Dheemanth Rajkumar
 
-With over 14 years of experience in the cloud services industry, I am a Business Program Manager at Microsoft, where I blend business, engineering, and sales expertise to enhance and unify the transactional experience within the Azure Commerce ecosystem. 
+**Technology leader & builder · Azure Commerce · Applied AI**
 
-## Responsibilities
+I turn emerging technology into practical products, stronger teams, and measurable business outcomes. My work connects engineering, commercial strategy, and service operations—from Azure Commerce and global delivery to applied AI prototypes.
 
-In my current role, I contribute to the development of new capabilities in Azure Commerce through telemetry analysis, prototyping, and present product specifications and service parity to multiple organizational tenants. I also partner with internal sales and marketing groups to increase deal velocity with engineering principles and align with FinOps governance models. 
+At Microsoft, I work across business and engineering to improve the Azure Commerce experience. I have also helped establish two global delivery sites supporting Azure service operations, Azure Marketplace, and partner programs.
 
-## Achievements
+[Portfolio](https://www.root18d.com/) · [Product Lab](https://www.root18d.com/products/) · [Insights](https://www.root18d.com/blog/) · [LinkedIn](https://www.linkedin.com/in/azure-dheemanth/)
 
-Additionally, I have trained, incubated, and delivered two global delivery sites for Azure service operations, Azure Marketplace, and partner programs. My mission is to leverage my extensive engineering, live site experience in Azure to drive and unblock major revenue streams, and foster new customer growth.
+## What I focus on
 
-##
-LinkedIn 
+- **Product building:** turn an emerging capability into a working prototype, test its usefulness, and define what would justify further investment.
+- **Applied AI:** build and evaluate retrieval systems, agent workflows, and tools that keep people in control.
+- **Cloud commerce:** connect billing, capacity, telemetry, and FinOps to customer experience and commercial decisions.
+- **Leadership:** develop teams, establish operating practices, and connect technical delivery to business priorities.
 
-https://www.linkedin.com/in/azure-dheemanth/ 
+## Explore my work
+
+| Area | What you’ll find |
+| --- | --- |
+| [Selected Work](https://www.root18d.com/#projects) | Case studies spanning AI, cloud capacity, sales engineering, and global service delivery. |
+| [Product Lab](https://www.root18d.com/products/) | Working prototypes exploring FinOps, RAG evaluation, support operations, and agent controls. |
+| [Agent Harness Starter Kit](https://www.root18d.com/products/agent-harness-starter-kit/) | A reference implementation of tool contracts, execution budgets, approval gates, and tracing. |
+| [Insights](https://www.root18d.com/blog/#ai) | Research-based writing on AI systems, evaluation, and production trade-offs. |
+| [Market Signals](https://www.root18d.com/#recursive-learning) | A watchlist of emerging systems, research, model releases, and startups. |
+
+My Product Lab contains exploratory prototypes; each project describes its scope and limitations.
+
+I’m interested in conversations about useful AI products, cloud commerce, and building teams that can bring new ideas into practice. [Connect on LinkedIn](https://www.linkedin.com/in/azure-dheemanth/).
